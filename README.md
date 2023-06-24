@@ -40,7 +40,7 @@ target="_blank">
 <img src='https://skillicons.dev/icons?i=instagram'
   </a>
   <a
-href='https://github.com/pedrogalotti/'
+href='https://github.com/PedroProgramming/'
 target="_blank">
 <img src='https://skillicons.dev/icons?i=github'
   </a>
