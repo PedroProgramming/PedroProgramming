@@ -6,16 +6,22 @@
 - 📠 I'm Back-end | Future: Fullstack
 - ⚡ Bora Programar!
 
-<h4 align="center">Linguagens / Tecnologias</h4>
+<h4 align="center">Linguagens</h4>
 <p align="center">
   <a href='https://skillicons.dev'>
-    <img src='https://skillicons.dev/icons?i=html,css,js,python,bootstrap,mysql'/>
+    <img src='https://skillicons.dev/icons?i=html,css,js,python'/>
   </a>
-  
+
+<h5 align="center">Tecnologias/Frameowrks</h4>
+<p align="center">
+  <a href='https://skillicons.dev'>
+    <img src='https://skillicons.dev/icons?i=django,bootstrap,tailwind'/>
+  </a>
+ 
 <h5 align="center">Programas</h4>
 <p align="center">
   <a href='https://skillicons.dev'>
-    <img src='https://skillicons.dev/icons?i=vscode,qt,django'/>
+    <img src='https://skillicons.dev/icons?i=vscode,mysql'/>
   </a>
   
 
@@ -28,14 +34,8 @@ href='https://discord.gg/b2sZ4S4zQW'
 target="_blank">
 <img src='https://skillicons.dev/icons?i=discord'
   </a>
-<!-- Divide the space -->
   <a
-href='https://twitter.com/PedroLucas_Dev'
-target="_blank">
-<img src='https://skillicons.dev/icons?i=twitter'
-  </a>
-  <a
-href='https://instagram.com/pedrodevprogramming/'
+href='https://www.instagram.com/pedrogallotti_/'
 target="_blank">
 <img src='https://skillicons.dev/icons?i=instagram'
   </a>
