@@ -15,7 +15,7 @@
 <h5 align="center">Tecnologias/Frameowrks</h4>
 <p align="center">
   <a href='https://skillicons.dev'>
-    <img src='https://skillicons.dev/icons?i=django,bootstrap,tailwind'/>
+    <img src='https://skillicons.dev/icons?i=django,vue,bootstrap,tailwind'/>
   </a>
  
 <h5 align="center">Programas</h4>
