@@ -4,7 +4,7 @@
 - 👨‍💻 I'm PedroDev
 - 🎮 I'm student to gamedev
 - 📠 I'm Back-end | Future: Fullstack
-- ⚡ Bora Programar!
+- ⚡ Let's Program!
 
 <h4 align="center">Linguagens</h4>
 <p align="center">
