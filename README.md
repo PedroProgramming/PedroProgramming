@@ -1,4 +1,4 @@
- ### Welcome, I'm PedroDev 👋
+ ## Welcome, I'm PedroDev 👋
 
 
 - 👨‍💻 I'm PedroDev
@@ -12,16 +12,22 @@
     <img src='https://skillicons.dev/icons?i=html,css,js,python'/>
   </a>
 
-<h5 align="center">Tecnologias/Frameowrks</h4>
+<h5 align="center">Frameworks</h4>
 <p align="center">
   <a href='https://skillicons.dev'>
-    <img src='https://skillicons.dev/icons?i=django,vue,bootstrap,tailwind'/>
+    <img src='https://skillicons.dev/icons?i=django,vue,tailwind'/>
   </a>
  
-<h5 align="center">Programas</h4>
+<h5 align="center">Banco de dados</h4>
 <p align="center">
   <a href='https://skillicons.dev'>
-    <img src='https://skillicons.dev/icons?i=vscode,mysql'/>
+    <img src='https://skillicons.dev/icons?i=mysql,sqlite,postgres'/>
+  </a>
+
+ <h5 align="center">Programas</h4>
+<p align="center">
+  <a href='https://skillicons.dev'>
+    <img src='https://skillicons.dev/icons?i=vscode,postman'/>
   </a>
   
 
