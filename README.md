@@ -2,7 +2,6 @@
 
 
 - 👨‍💻 I'm PedroDev
-- 🎮 I'm student to gamedev
 - 📠 I'm Back-end | Future: Fullstack
 - ⚡ Let's Program!
 
