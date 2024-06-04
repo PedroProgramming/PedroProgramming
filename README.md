@@ -30,12 +30,7 @@
 
 <p align="center">
   <a
-href='https://discord.gg/b2sZ4S4zQW'
-target="_blank">
-<img src='https://skillicons.dev/icons?i=discord'
-  </a>
-  <a
-href='https://www.instagram.com/pedrogallotti_/'
+href='https://www.instagram.com/_pedrogallotti/'
 target="_blank">
 <img src='https://skillicons.dev/icons?i=instagram'
   </a>
