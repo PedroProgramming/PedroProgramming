@@ -14,7 +14,7 @@
 <h5 align="center">Frameworks</h4>
 <p align="center">
   <a href='https://skillicons.dev'>
-    <img src='https://skillicons.dev/icons?i=django,vue,tailwind'/>
+    <img src='https://skillicons.dev/icons?i=django,tailwind'/>
   </a>
  
 <h5 align="center">Banco de dados</h4>
